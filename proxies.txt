@@ -1,3 +1,6 @@
-http://username:password@proxyserver:port
-http://username:password@proxyserver:port
+# List of proxy servers in the format:
+# http://username:password@proxyserver:port
+
+http://username:password@proxyserver1:port1
+http://username:password@proxyserver2:port2
 # Add more proxies as needed

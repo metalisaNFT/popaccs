@@ -1,6 +1,8 @@
-tweepy==4.14.0
-requests==2.31.0
-python-dotenv==1.0.1
-selenium==4.11.2
-webdriver-manager==3.8.6
-PySocks==1.7.1
+# Python package dependencies for the Twitter account automation project
+
+tweepy==4.14.0                # Twitter API library for Python
+requests==2.31.0              # HTTP library for making requests
+python-dotenv==1.0.1          # Loads environment variables from a .env file
+selenium==4.11.2              # Browser automation library
+webdriver-manager==3.8.6       # Automatically manages browser drivers
+PySocks==1.7.1                 # SOCKS proxy support for Python
